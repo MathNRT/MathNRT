@@ -1,9 +1,8 @@
 Ola! Sou o matheus Marcelo
 
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: ...
+- 🌱 I’m currently learning: javascript, back end (recem iniciado na area de programação)
+- 📫 How to reach me: me chame no meu novo instagram: https://www.instagram.com/matheus_marelo/
 - 😄 Pronouns: Ele/Dele
 
 
